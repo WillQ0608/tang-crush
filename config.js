@@ -5,7 +5,7 @@ const CONFIG = {
     giờ chưa nói được gì
     time will tell`,
     btnIntro: 'trễ rồi!',
-    title: 'Phải chăng em đã quên cần cho bản thân tích cực và ngủ đúng giờ 😙',
+    title: 'Em đã quên cho bản thân sống tích cực và ngủ đúng giờ >< ?',
     desc: 'Phải chăng em đã quen với việc hại bản thân tới 6h sáng r ngủ tới 1 giờ chiều ',
     btnYes: 'ok e đi ngủ nè, 15p cuối nha <3',
     btnNo: 'Tại em thích vậy đó !',
